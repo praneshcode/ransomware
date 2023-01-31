@@ -1,6 +1,0 @@
-Your personal files are encrypted.
-To decrypt your files, email 'EMAIL_ME.txt' file to [attacker_email_address].
-'EMAIL_ME.txt' file can be found in Desktop, Documents, Downloads, Music, Pictures, Videos.
-
-
-
